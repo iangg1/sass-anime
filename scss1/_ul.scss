@@ -1,0 +1,29 @@
+
+ul {
+    list-style: none;
+    display: flex;
+
+    li {    
+        margin: 0 10px;
+    
+
+        a {
+            color: white;
+            text-decoration: none;
+            transition: 0.3 all ease;
+            border-bottom: 2px solid transparent;
+            padding-bottom: 5px;
+            
+
+
+            &:hover {
+                color: $colorprimary;
+                border-bottom: 2px solid white;
+            }
+        }
+        
+    }
+    
+}
+        
+ 

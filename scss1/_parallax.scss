@@ -1,0 +1,26 @@
+.parallax {
+    background-image: url("../assets/img/BackgroundHome.jpg");
+}
+
+.parallaxPunpun {
+    background-image: url("../assets/img/Background5.png");
+    background: $background3;
+}
+
+.parallaxHeroes {
+    background-image: url("../assets/img/Background1.png");
+    background: $background3;
+}
+
+.parallaxDead {
+    background-image: url("../assets/img/Background7.jpg");
+    background: $background3;
+}
+
+.parallaxSolanin {
+    background-image: url("../assets/img/Background3.png");
+    background-repeat: space;
+    background-size: auto;
+    background-position: auto;
+    background-attachment: local;
+}
