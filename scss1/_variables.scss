@@ -1,7 +1,3 @@
-$background-repeat: repeat;
-
-$background1: $background-repeat + cover;
-$background2: $background1 + auto;
-$background3: $background2 + local;
+$background: repeat + cover + auto + local;
 
 $colorprimary: grey;
