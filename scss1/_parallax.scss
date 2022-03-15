@@ -1,5 +1,9 @@
 .parallax {
     background-image: url("../assets/img/BackgroundHome.jpg");
+    background-repeat: $b-repeat;
+    background-size: $b-size;
+    background-position: $b-position;
+    background-attachment: $b-attachment;
 }
 
 .parallaxPunpun {
