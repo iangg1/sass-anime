@@ -4,17 +4,26 @@
 
 .parallaxPunpun {
     background-image: url("../assets/img/Background5.png");
-    background: $background;
+    background-repeat: $b-repeat;
+    background-size: $b-size;
+    background-position: $b-position;
+    background-attachment: $b-attachment;
 }
 
 .parallaxHeroes {
     background-image: url("../assets/img/Background1.png");
-    background: $background;
+    background-repeat: $b-repeat;
+    background-size: $b-size;
+    background-position: $b-position;
+    background-attachment: $b-attachment;
 }
 
 .parallaxDead {
     background-image: url("../assets/img/Background7.jpg");
-    background: $background;
+    background-repeat: $b-repeat;
+    background-size: $b-size;
+    background-position: $b-position;
+    background-attachment: $b-attachment;
 }
 
 .parallaxSolanin {
